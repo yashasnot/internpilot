@@ -1,0 +1,28 @@
+{
+  "name": "Yashas",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "Data Analysis",
+    "Scikit-learn",
+    "TensorFlow",
+    "Streamlit"
+  ],
+  "interests": [
+    "AI",
+    "FinTech",
+    "Healthcare AI",
+    "Research",
+    "Quant"
+  ],
+  "preferred_roles": [
+    "ML Intern",
+    "AI Intern",
+    "Research Intern",
+    "Quant Intern",
+    "Data Science Intern",
+    "Software Engineer Intern"
+  ]
+}
