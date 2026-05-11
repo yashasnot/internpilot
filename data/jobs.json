@@ -2,131 +2,288 @@
     {
         "title": "SnapMagic\u00a0(S15)\u2022AI-assisted electronics design",
         "link": "https://www.workatastartup.com/companies/snapmagic",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nSnapMagic(S15)\nhttps://www.snapmagic.com\n\nAI-assisted electronics design\n\nSan Francisco\n23 people\nB2B -> Engineering, Product and Design\nFounders\nNatasha Baker\n\nProduct Marketing Engineer for EDA Tools at National Instruments, EDA Engineer at National Instruments, Technology Writer at Thomson Reuters\n\nAbout SnapMagic\n\nSnapMagic is already the default discovery layer for electronic components, used by over 2M engineers at many of the world\u2019s largest hardware companies. Since our seed round, we\u2019ve doubled revenue with a small team operating at a high bar.\n\nWe\u2019re now building SnapMagic Copilot: an AI system trained on one of the largest proprietary electronics datasets in the world to radically speed up how hardware gets designed.\n\nThis is a rare chance to own meaningful pieces of the product, and help define core infrastructure for the electronics industry.\n\nTechnology\n\nPython, Django, Postgres\n\nCheck out other YC startups on Work at a Startup below.\nJulius(S22)\n\nAI Data Scientist\n\nWoz(W25)\n\nClaude Code plugin that reduces token consumption and cost by 50%\n\nMailTime(W16)\n\nEmails as quick and easy as text messaging.\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Hive\u00a0(S14)\u2022Marketing automation for event promoters (email, sms, ads, CRM)",
         "link": "https://www.workatastartup.com/companies/hive",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Senior Software Engineer, Data",
-        "link": "https://www.workatastartup.com/jobs/93494",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Hive\u00a0(S14)\u2022Marketing automation for event promoters (email, sms, ads, CRM)",
-        "link": "https://www.workatastartup.com/companies/hive",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nHive(S14)\nhttp://www.hive.co\n\nMarketing automation for event promoters (email, sms, ads, CRM)\n\nKitchener, Canada\n65 people\nB2B -> Marketing\nFounders\nPatrick Hannigan\n\nFounder @ www.hive.co\n\nIan Roberts\n\nR&D Project Manager at Kuntz Electroplating, President at ROI Consultation, Process Control Technician at Kuntz Electroplating\n\nAbout Hive\n\nHive is the industry-best marketing platform for event marketers. Our platform powers marketing for 1500+ of the most iconic event, festivals, venues, promoters, and event-centric brands across North America.\n\nWe help our clients sell out their shows and make their events unforgettable - by helping them grow their customer base and personalizing and automating their email, SMS, and ad campaigns.\n\nHive integrates with 25+ partners like Ticketmaster and Shopify, ingesting rich customer data in real-time. With this data, event marketers can segment their audiences in powerful ways and send timely, customized messages to their customers.\n\nHive was founded in a University of Waterloo computer lab and graduated from Y Combinator in 2014. Today, we\u2019re a remote-first team spread across Canada and the US, building a product and a culture that values clarity, ownership, and real customer impact.\n\nTechnology\n\n##Past Projects:\n\nWe built a state-based pipeline to send millions of personalized emails every day, while maximizing deliverability and reducing spam complaints based on real-time feedback from email providers like Gmail, Outlook, and Yahoo.\nWe designed and built a simple intuitive interface to let our clients easily query their own customer data. Behind the scenes, it executes queries against billions of data points across different types of databases and combines the results together in seconds.\nUsing Kubernetes and Docker, we re-built the infrastructure and tooling that powers our background task processing system, which runs billions of jobs every day. We\u2019re able to dynamically scale up and down our total processing capacity automatically based on workload - which means things execute faster for our clients, we save loads of money on idle servers, and our engineers can sleep at night.\nWe designed and built a Javascript SDK that other developers (our clients and partners) integrate directly on their websites and online stores to pump customer preferences and behaviour into Hive. Because of this (and our other integrations), our product often is the only place where our clients can view and store all of their customers\u2019 preferences, behaviours, and purchase history in one single \u201cdatabase\u201d.\nJobs at Hive\nSenior Software Developer\nRemote\nFull-Time\n$124K - $188K CAD\nUS Citizenship/Visa Not Required\n3+ Years\nView job\nSenior Backend Software Developer, Platform & Services\nCA / Remote (CA)\nFull-Time\n$124K - $188K CAD\nUS Citizenship/Visa Not Required\n6+ Years\nView job\nEngineering Manager\nCA / Remote (CA)\nFull-Time\n$150K - $210K CAD\nUS Citizenship/Visa Not Requ",
+        "source": "yc"
     },
     {
         "title": "Tenjin\u00a0(S14)\u2022Mobile marketing analytics and infrastructure",
         "link": "https://www.workatastartup.com/companies/tenjin",
-        "type": "fintech"
+        "type": "fintech",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nTenjin(S14)\nhttps://www.tenjin.com\n\nMobile marketing analytics and infrastructure\n\nSan Francisco\n30 people\nB2B -> Marketing\nFounders\nChristopher Farm\n\nLike to make things\n\nAmir Manji\n\nResearch and Development at Epic Systems Corporation, Applications Developer at Card Player Media, Mentor at Dev Bootcamp\n\nAbout Tenjin\n\nTenjin manages mobile growth infrastructure for our clients by organizing, analyzing, and securing the rush of data generated by mobile devices and marketing channels. We're reshaping mobile marketing by breaking down data silos and building an integrated data platform to replace the detached services in use today.\n\nThe team at Tenjin is small but growing. We feel passionately about doing work that matters. Working here will provide you with opportunities for growth and leadership at the intersection of big data and mobile marketing. If you\u2019re looking to work in an environment with smart, talented coworkers who value good people and good ideas, we\u2019d like to talk to you. Self-directed team players will enjoy the balance of flexibility and collaboration that guides our culture.\n\nTenjin is remote-friendly with people in San Francisco, Atlanta, Berlin, and Tokyo.\n\nTechnology\n\nFront-End: Ruby on Rails, React\n\nBack-End: Ruby, Java, Go, Flink, Kafka\n\nInfrastructure: AWS (Redshift, Kinesis, DynamoDB, SQS), Postgres, Redis, Kubernetes (EKS)\n\nJobs at Tenjin\nSenior Backend Engineer\nUS / CA / MX / BR / AR / CO / PE / Remote (US; CA; MX; BR; AR; CO; PE)\nFull-Time\n$125K - $225K\nUS Citizenship/Visa Not Required\n6+ Years\nView job\nCheck out other YC startups on Work at a Startup below.\nZiina(W21)\n\nA digital wallet for the Middle East & North Africa\n\nLuminai(S20)\n\nLuminai helps automate repetitive manual work away from your mission\u2026\n\nAlgoUniversity(S21)\n\nBuilding Job driven Virtual Tech University for India \ud83c\uddee\ud83c\uddf3\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
+    },
+    {
+        "title": "Senior Python Engineer, Truework",
+        "link": "https://www.workatastartup.com/jobs/92286",
+        "type": "general",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nSenior Python Engineer, Truework at Checkr(S14)\n$185K - $218K\nPeople infrastructure for the future of work\nSan Francisco, California, United States\nFull-time\nUS citizen/visa only\n6+ years\nApply now\nAbout Checkr\n\nCheckr builds people infrastructure for the future of work. We've designed a faster\u2014and fairer\u2014way to screen job seekers. Established in 2014, Checkr puts modern technology powered by machine learning in the hands of hiring teams, helping to hire great new people with an experience that\u2019s fast, smooth, and safe. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.\n\nA career at Checkr means collaborating with brilliant minds, disrupting an industry, and opening channels of employment to often overlooked candidates. Checkr is recognized on Forbes Cloud 100 2024 List and is a Y Combinator 2024 Breakthrough Company.\n\nAbout the role\n\nAbout Checkr\nCheckr is building the data platform to power safe and fair decisions. Established in 2014, Checkr\u2019s innovative technology and robust data platform help customers assess risk and ensure safety and compliance to build trusted workplaces and communities. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.\n\nWe\u2019re a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company.\n\nAbout the Role\n\nTruework, recently acquired by Checkr, provides access to crucial employment and income information needed for mortgage loans, apartment rentals, background checks, and more. We are disrupting a $5B+ industry, dominated by legacy incumbents, with a better product and intense customer focus. Within Checkr, Truework operates independently, allowing rapid iteration while also being able to leverage the strengths and assets from our core business. Think of it like joining a startup within a startup!\n\nAs a Senior Software Engineer on the Truework team you will help develop and maintain the platform that\u2019s used by 8 of the top 10 mortgage lenders in the US. At Checkr, Engineers take ownership and responsibility on all aspects of Product development from leading projects, working with product managers and customers to define and implement features, to collaborating with our sales and marketing teams on launching and scaling products. You\u2019ll have a lot of autonomy and will be successful if you have high agency and a keen sense of craftsmanship for yourself and others.\n\nMost of the work we need to do is backend-oriented, but we are open to candidates from a broad set of roles (full stack, backend, QA engineers, SREs, etc.) if you meet our requirements.\u00a0\n\nWhat you\u2019ll do\n\nBe an independent individual contributor who can solve problems and deliver high-quality solutions with minimal/high-level oversight and a high level of ownership\nBring a customer-c",
+        "source": "yc"
     },
     {
         "title": "Gojiberry AI\u00a0(P26)\u2022GTM Brain for small sales teams",
         "link": "https://www.workatastartup.com/companies/gojiberry-ai",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nGojiberry AI(P26)\nhttps://www.gojiberry.ai\n\nGTM Brain for small sales teams\n\nSan Francisco\n7 people\nB2B -> Sales\nFounders\nRom\u00e0n Czerny\n\nCo-Founder & CMO of Gojiberry AI | The GTM Brain for small sales teams \ud83e\udde0 | 1x Exit (CoCo AI)\n\nPierre-Eliott Lallemant\n\nCo-Founder & CEO of Gojiberry AI | The GTM Brain for small sales teams \ud83e\udde0 | 1x Exit (CoCo AI)\n\nDylan TEIXEIRA\n\nFrench entrepreneur, co\u2011founder and CTO of Gojiberry (GTM Brain for small sales teams), previously co\u2011founded Edusign, a paperless attendance SaaS that grew to multi\u2011million ARR before I sold in 2025.\n\nAbout Gojiberry AI\n\nGojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead\u2019s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time.\n\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.\n\nTechnology\nNodejs/Nest\nAWS - ECS/Aurora/SQS,DynamoDB...\nTailwind\nAngular/typescript\nJobs at Gojiberry AI\nGrowth manager\nRemote\nFull-Time\n\u20ac40K - \u20ac50K EUR\nUS Citizenship/Visa Not Required\n1+ Years\nView job\nFounding Sales (Europe)\nRemote\nFull-Time\n\u20ac50K - \u20ac100K EUR\nUS Citizenship/Visa Not Required\n1+ Years\nView job\nFullstack developer - Angular & NestJs - Full Remote\nFR / PT / BE / DE / Remote (FR; PT; BE; DE)\nFull-Time\n\u20ac45K - \u20ac60K EUR\nUS Citizenship/Visa Not Required\n3+ Years\nView job\nCheck out other YC startups on Work at a Startup below.\nAurorin CAD(W26)\n\nClaude code for Mechanical Engineers\n\nCambly(W14)\n\nOn-demand access to English tutors over video chat.\n\nUnbound(S24)\n\nUse AI tools without fear of data leakage\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "GrazeMate\u00a0(W26)\u2022Robot Cowboys that Herd Cattle with AI Drones",
         "link": "https://www.workatastartup.com/companies/grazemate",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nGrazeMate(W26)\nhttps://grazemate.com\n\nRobot Cowboys that Herd Cattle with AI Drones\n\nSydney, Australia\n3 people\nIndustrials -> Agriculture\nFounders\nSam Rogers\n\nCEO of GrazeMate, Inc. Spent half my life on a cattle farm, and the other half building robots.\n\nAbout GrazeMate\n\nGrazeMate builds autonomous drones for cattle stations.\n\nWe're replacing helicopters and motorbikes with drones that herd cattle, count herds, and monitor pasture on their own. Helicopter mustering is expensive, dangerous, and still misses cattle. Our drones launch from a dock, fly the paddock, do the work, and come home. The only pilot is our RL models.\n\nWe went through YC (W26) and raised a seed round from the best investors in the valley. Our team is small and highly technical, and we're already working with some of the largest ranches in the world.\n\nEngineering is based in Sydney, but the work happens everywhere. Expect to write code at a desk, in a truck, and in the dirt. We work hard because our ranchers do.\n\nTechnology\n\nWe run computer vision and reinforcement learning on drones that operate without a human in the loop, across paddocks the size of small countries. The stack runs on ROS2, with models deployed to the edge on NVIDIA Jetsons. Because cattle go everywhere, so do we - GrazeMate runs fully off-grid and without connectivity.\n\nJobs at GrazeMate\nAI/ML Engineer\nSydney, NSW, AU / Sydney, New South Wales, AU\nFull-Time\n$85K - $130K\n0.20% - 1.00%\nUS Citizenship/Visa Not Required\nAny (New Grads Ok)\nView job\nSenior Robotics Engineer\nSydney, NSW, AU / Sydney, New South Wales, AU\nFull-Time\n$100K - $160K\n0.25% - 1.00%\nUS Citizenship/Visa Not Required\n3+ Years\nView job\nCheck out other YC startups on Work at a Startup below.\nOpen(W24)\n\nEnterprise AI customer support\n\nEdgeTrace(W24)\n\nDescribe It. Find It. Act On It.\n\nIntryc(S24)\n\nIntryc uses AI to automate quality assurance for customer support\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "AI/ML Engineer",
         "link": "https://www.workatastartup.com/jobs/93556",
-        "type": "ai/ml"
-    },
-    {
-        "title": "GrazeMate\u00a0(W26)\u2022Robot Cowboys that Herd Cattle with AI Drones",
-        "link": "https://www.workatastartup.com/companies/grazemate",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Robotics Intern",
-        "link": "https://www.workatastartup.com/jobs/93977",
-        "type": "general"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nAI/ML Engineer at GrazeMate(W26)\n$85K - $130K\u00a0 \u2022 \u00a00.20% - 1.00%\nRobot Cowboys that Herd Cattle with AI Drones\nSydney, NSW, AU / Sydney, New South Wales, AU\nFull-time\nUS citizenship/visa not required\nAny (new grads ok)\nMachine Learning\nOpenCV\nComputer Vision\nSensor integration\nApply now\nAbout GrazeMate\n\nGrazeMate builds autonomous drones for cattle stations.\n\nWe're replacing helicopters and motorbikes with drones that herd cattle, count herds, and monitor pasture on their own. Helicopter mustering is expensive, dangerous, and still misses cattle. Our drones launch from a dock, fly the paddock, do the work, and come home. The only pilot is our RL models.\n\nWe went through YC (W26) and raised a seed round from the best investors in the valley. Our team is small and highly technical, and we're already working with some of the largest ranches in the world.\n\nEngineering is based in Sydney, but the work happens everywhere. Expect to write code at a desk, in a truck, and in the dirt. We work hard because our ranchers do.\n\nAbout the role\n\nWe're hiring an AI/ML Engineer to help build robot cowboys. You'll own the perception and processing models that let our drones see, track, and understand the world below them.\n\nWhat you'll do\n\nBuild CV models for cattle detection, tracking, and weight estimation across RGB and thermal\nBuild segmentation models for paddocks, pasture, and water from aerial and satellite imagery\nShip models onto field computers under tight performance constraints\nOwn the data pipelines behind the models\n\nYou should have\n\nShipped CV or ML models into production, ideally on edge hardware\nStrong skills in some mix of PyTorch, OpenCV, segmentation, point clouds, and remote sensing\nBuilt solutions for the real world, ideally in field robotics or sensing systems\nWillingness to travel to our research station and customer deployments to debug in the field\nTechnology\n\nWe run computer vision and reinforcement learning on drones that operate without a human in the loop, across paddocks the size of small countries. The stack runs on ROS2, with models deployed to the edge on NVIDIA Jetsons. Because cattle go everywhere, so do we - GrazeMate runs fully off-grid and without connectivity.\n\nInterview Process\nIntro/Screening\nTechnical Deep Dive\n3 day In-Person Work Trial\nFT Offer\nApply now\nOther jobs at GrazeMate\nRobotics Intern\nSydney, New South Wales, AU\nInternship\n$5K - $8K / Monthly\nView job\nChief of Staff / Ops\nSydney, NSW, AU / Sydney, New South Wales, AU\nFull-Time\n$100K - $160K\n0.25% - 1.50%\n3+ Years\nView job\nSenior Robotics Engineer\nSydney, NSW, AU / Sydney, New South Wales, AU\nFull-Time\n$100K - $160K\n0.25% - 1.00%\n3+ Years\nView job\nHundreds of YC startups are hiring on Work at a Startup.\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Mana",
+        "source": "yc"
     },
     {
         "title": "VOYGR\u00a0(W26)\u2022Real-world place intelligence for AI apps and agents",
         "link": "https://www.workatastartup.com/companies/voygr",
-        "type": "ai/ml"
-    },
-    {
-        "title": "VOYGR\u00a0(W26)\u2022Real-world place intelligence for AI apps and agents",
-        "link": "https://www.workatastartup.com/companies/voygr",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nVOYGR(W26)\nhttps://voygr.tech\n\nReal-world place intelligence for AI apps and agents\n\nB2B\nFounders\nVlad Baskakov\n\nVlad is the co-founder and CEO of VOYGR. He brings firsthand experience from Google Maps, where he led Product Strategy and GTM, bootstrapping new API products, shaping Maps\u2013Gemini data sharing, and driving key improvements in merchant experience and offline ads. He has 15+ years of Growth and GM experience across mapping and its core markets \u2013 ridesharing and travel. He previously worked at McKinsey and holds an MBA from Harvard.\n\nYarik Markov\n\nCTO, 20 years in tech, 10+ years of leading Infra/ML/Search at Google/Meta/Apple\n\nJobs at VOYGR\nFull-Stack Engineer\nRemote\nFull-Time\n$4K - $7K / Monthly\nUS Citizenship/Visa Not Required\nAny (New Grads Ok)\nView job\nCheck out other YC startups on Work at a Startup below.\nCharge Robotics(S21)\n\nRobots that build solar farms\n\nWindmill(S22)\n\nOpen-source platform to turn scripts into internal apps & workflows\n\nPowder(W24)\n\nAI Agents for precise document analysis\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Superset\u00a0(P26)\u2022The IDE for the AI Agents Era",
         "link": "https://www.workatastartup.com/companies/superset",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nSuperset(P26)\nhttps://www.superset.sh/\n\nThe IDE for the AI Agents Era\n\nSan Francisco\n3 people\nB2B -> Engineering, Product and Design\nFounders\nKiet Ho\n\nCo-Founder at Superset prev cofounder at Onlook (W25), swe at Amazon, ServiceNow\n\nSatya Patel\n\nCo-founder at Superset former CTO of Untether Labs (YC W23), Google, Amazon\n\nAvi Peltz\n\nCo-Founder @Superset. | Prev. Co-Founder CTO Adam(W25) and Cofounder@BioGlyph\n\nAbout Superset\n\nJoin a team of 3 ex YC CTO founders to build the next Cursor. We're building a deeply technical team that likes to move fast, break things, and have a ton of fun building together.\n\nWe're looking for other multiple time founders who is comfortable embracing and pushing the limits of parallel agents coding.\n\nTechnology\n\nWe're building the tech that empowers engineers to orchestrate 100+ agents in parallel.\n\nThe current tech stack spans across building agent harnesses, IDE, terminal, cloud, real-time stream transport, and lower level user device management. Our codebase is mostly TypeScript and open-source so your work will be on display to the public.\n\nCheck out other YC startups on Work at a Startup below.\nMagic Patterns(W23)\n\nGo from idea to production with AI.\n\nF2(S25)\n\nThe AI platform for private markets investors\n\nLaylo(S20)\n\nThe CRM powering iconic musicians and events\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Seeing Systems\u00a0(W26)\u2022Modular AI-Commanded Drones for Defence",
         "link": "https://www.workatastartup.com/companies/seeing-systems",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Seeing Systems\u00a0(W26)\u2022Modular AI-Commanded Drones for Defence",
-        "link": "https://www.workatastartup.com/companies/seeing-systems",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nSeeing Systems(W26)\nhttps://www.seeing-systems.com\n\nModular AI-Commanded Drones for Defence\n\nLondon, United Kingdom\n2 people\nIndustrials -> Defense\nFounders\nMatthew Le Maitre\n\nEx-Jane Street SWE, Top-Ranked CS Grad @ Cambridge, now building Defence Tech. Physicist \u2192 Researcher \u2192 Consultant \u2192 Software Engineer \u2192 Founder \ud83d\ude80 Trying never to lose my inner child, whilst building things that really matter.\n\nAlexander Le Maitre\n\nObsessed with unmanned systems from a young age, self-taught in embedded electronics and PCB design. Previously designed Explosive Ordnance Disposal (EOD) training and diagnostic hardware for military users as well as projects with national security implications. From a small island called Guernsey, now building tech that keeps the country safe.\n\nAbout Seeing Systems\n\nSeeing Systems is a small, NATO-focused defence startup, specialising in development of, and training on small unmanned aircraft systems (sUAS) and AI-enabled embedded swarm systems. We\u2019ve worked with UK Commando Royal Marines, Estonian Military, Luxembourg Army, among others.\n\nWe are currently working with a US manufacturer to produce our next-generation one-way effector drone, along with our own control system, breaking the current 1:1 operator-to-drone ratio with a unique usability-first approach, allowing full swarm autonomy for pilots with no prior training or experience.\n\nTechnology\n\nPython, Rust, OCaml, ROS, AirSim, World Models, MAVLink, SLAM\n\nJobs at Seeing Systems\nElectrical Engineer Intern\nLondon, England, GB\nInternship\n\u00a34.5K - \u00a37.5K GBP / Monthly\nUS Citizenship/Visa Not Required\nView job\nFounding Hardware Engineer\nLondon, England, GB\nFull-Time\n\u00a360K - \u00a3120K GBP\n0.25% - 1.00%\nUS Citizenship/Visa Not Required\nAny (New Grads Ok)\nView job\nFounding Software Engineer\nLondon, England, GB\nFull-Time\n\u00a360K - \u00a3120K GBP\n0.25% - 1.00%\nUS Citizenship/Visa Not Required\nAny (New Grads Ok)\nView job\nCheck out other YC startups on Work at a Startup below.\nRamAIn(W26)\n\nAutomate any UI task with natural language\n\nGeneral Legal(W26)\n\nThe AI native law firm for growth stage companies\n\nborong(W20)\n\nborong is a SaaS-enabled marketplace that connects brands like\u2026\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Proximitty\u00a0(W26)\u2022AI operating system for commercial loans",
         "link": "https://www.workatastartup.com/companies/proximitty",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nProximitty(W26)\nhttps://proximitty.ai\n\nAI operating system for commercial loans\n\nSan Francisco\n2 people\nFintech -> Credit and Lending\nFounders\nWye Yew Ho\n\nCo-founder & CEO @ Proximitty (YC W26). Previously, led FinCrime and Growth at Taptap Send ($75m -> $200m ARR) and started his career advising banks and fintechs on risk strategy at McKinsey. Highest ranked Malaysian in history in the Southeast Asian Maths Competition (SEAMC).\n\nZi Zhang\n\nCo-founder & CTO @ Proximitty (W26). Previously, led security infrastructure at Bloomberg (securing 300k+ terminals) and Head of Engineering at ACI.dev (built world's first unified MCP with 4k GitHub stars in 1 month).\n\nCheck out other YC startups on Work at a Startup below.\nTraceRoot.AI(S25)\n\nOpen source self-healing layer for AI agents\n\nWillow(P25)\n\nThe voice interface replacing your keyboard\n\nNALA(W19)\n\nBuilding Payments for the Next Billion.\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Ventura\u00a0(W26)\u2022AI Workforce for Distributors and Manufacturers",
         "link": "https://www.workatastartup.com/companies/ventura",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Moritz\u00a0(W26)\u2022Global AI-native law firm handling legal work with same-day turnaround",
-        "link": "https://www.workatastartup.com/companies/moritz",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Moritz\u00a0(W26)\u2022Global AI-native law firm handling legal work with same-day turnaround",
-        "link": "https://www.workatastartup.com/companies/moritz",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Applied Research Scientist, Legal Domain",
-        "link": "https://www.workatastartup.com/jobs/93562",
-        "type": "ai/ml"
-    },
-    {
-        "title": "Founding Platform Engineer, Data & ML Systems",
-        "link": "https://www.workatastartup.com/jobs/92979",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nVentura(W26)\nhttps://www.ventura.ai\n\nAI Workforce for Distributors and Manufacturers\n\nSan Francisco\n2 people\nIndustrials\nFounders\nJack Collins\n\nFounding Engineer at Develop Health, where I owned a product responsible for half the company\u2019s revenue. We went 0 to $7M ARR in 14 months with a team of 5. Created magentic, an open-source Python framework for LLMs (2k+ GitHub stars). Irish Mathematical Olympiad finalist. MS in Computing (Machine Learning), Imperial College London.\n\nSwen Koller\n\nPreviously founded and exited a B2B SaaS platform for wholesale distributors in Europe. MS Engineering + MBA, Harvard. Forbes 30 Under 30. Ex-BCG.\n\nAbout Ventura\n\nVentura builds the AI workforce for distributors and manufacturers, starting with quoting and order entry. It plugs into your existing ERP, follows your SOPs, and learns your team's tribal knowledge - getting smarter with every completed task.\n\nSwen (CEO) \u2014 Advised steel, cement, and industrial machinery manufacturers as a consultant at BCG, then co-founded and exited a process automation platform for European wholesale distributors. While doing his MBA at Harvard, he embedded with a $2bn distributor to build their AI sales automation from scratch. That became Ventura.\n\nJack (CTO) \u2014 Has been building with AI Language Models since before they became large. Founding Engineer at Develop Health, where he automated back-office operations in healthcare with AI - the same class of problems we're solving for distributors. The company scaled from zero to $7M ARR in 14 months with a team of 5.\n\nJobs at Ventura\nFounding Engineer\nSan Francisco, CA, US\nFull-Time\n$140K - $220K\n0.50% - 2.00%\nWill Sponsor\nAny (New Grads Ok)\nView job\nCheck out other YC startups on Work at a Startup below.\nSolum Health(S22)\n\nAI Automation for Therapy Practices\n\nCarbonChain(S20)\n\nWe help companies automate the accounting of their carbon emissions\n\nInfinity(W24)\n\nBusiness banking for cross-border SMBs & Startups\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Founding Research Engineer, Model Training",
         "link": "https://www.workatastartup.com/jobs/92978",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nFounding Research Engineer, Model Training at CellType(W26)\n$150K - $250K\u00a0 \u2022 \u00a00.50% - 2.00%\nThe agentic drug company. We simulate human biology.\nNew York, NY, US\nFull-time\nWill sponsor\n3+ years\nDistributed Systems\nMachine Learning\nReinforcement learning (RL)\nApply now\nAbout CellType\n\nCellType is building foundation models and agent systems for biology.\n\nWe are building models that learn from biological data, experiments, and outcomes directly. Our goal is to develop AI systems that are genuinely useful for scientific discovery and drug development.\n\nWe work on problems such as preclinical-to-clinical translation, response prediction, biomarker discovery, and reasoning across complex biological datasets. These are technically difficult problems with real scientific and commercial importance.\n\nWe are an early team with high standards for technical depth, speed, and ambition. This is a good fit for people who want to work on hard model and systems problems in a domain that matters.\n\nAbout the role\nFounding Research Engineer, Model Training\n\nLocation: New York City\nType: Full-time\n\nAbout CellType\n\nCellType is building foundation models and agent systems for biology.\n\nWe believe the next major advances in biotech AI will come from models trained to reason over biological data, experiments, and translational outcomes, not from lightweight wrappers around generic models. We work with pharma and biotech partners on problems such as preclinical-to-clinical translation, response prediction, biomarker discovery, and scientific reasoning across complex biological datasets. Our core technology was originally developed at Yale in collaboration with Google DeepMind, and has been published at top ML venues including ICML.\n\nWe are building the core intelligence layer for biology.\n\nAbout the role\n\nWe are hiring a Founding Research Engineer to build and scale the systems that improve our models.\n\nThis role sits at the boundary of research and engineering. You will work on training, post-training, evaluation, performance optimization, and the systems needed to support all of that. You should be excited by both novel model development and the operational reality of making training systems run reliably.\n\nWhat you'll do\nBuild and improve training and post-training systems for biological foundation models and agentic model workflows\nDesign and run experiments across supervised fine-tuning, reinforcement learning, tool use, evaluation, and model behavior optimization\nBuild and maintain distributed RL and post-training infrastructure\nImprove reliability of rollout, evaluation, and reward pipelines\nOwn critical parts of the model training stack, including performance, reliability, observability, and debugging\nInvestigate and resolve issues across the full stack, from training dynamics and evaluation infrastructure to distributed systems and hardware bottlenecks\nProfile and eliminate performance bottlenecks across",
+        "source": "yc"
+    },
+    {
+        "title": "Founding Platform Engineer, Data & ML Systems",
+        "link": "https://www.workatastartup.com/jobs/92979",
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nFounding Platform Engineer, Data & ML Systems at CellType(W26)\n$145K - $250K\u00a0 \u2022 \u00a00.50% - 2.00%\nThe agentic drug company. We simulate human biology.\nNew York, NY, US\nFull-time\nUS citizen/visa only\n3+ years\nApply now\nAbout CellType\n\nCellType is building foundation models and agent systems for biology.\n\nWe are building models that learn from biological data, experiments, and outcomes directly. Our goal is to develop AI systems that are genuinely useful for scientific discovery and drug development.\n\nWe work on problems such as preclinical-to-clinical translation, response prediction, biomarker discovery, and reasoning across complex biological datasets. These are technically difficult problems with real scientific and commercial importance.\n\nWe are an early team with high standards for technical depth, speed, and ambition. This is a good fit for people who want to work on hard model and systems problems in a domain that matters.\n\nAbout the role\nAbout CellType\n\nCellType is building foundation models and agent systems for biology.\n\nWe believe the next major advances in biotech AI will come from rich biological data, strong model systems, and reliable infrastructure working together. We work with pharma and biotech partners on problems such as preclinical-to-clinical translation, response prediction, biomarker discovery, and scientific reasoning across complex biological datasets.\n\nWe are building the core intelligence layer for biology, and that requires a world-class data and ML platform.\n\nAbout the role\n\nWe are hiring a Founding Platform Engineer to build the infrastructure backbone behind our training, evaluation, and inference stack.\n\nWe are looking for someone who can build the systems that make biological data usable for model development at speed and at scale: ingestion, indexing, search, retrieval, dataset interfaces, reproducibility, validation, orchestration, observability, and distributed performance.\n\nYou will work on the full path from raw data to training-ready datasets to reliable production workflows. The right person will make it dramatically easier for the rest of the team to build, evaluate, and ship models.\n\nWhat you'll do\nBuild and maintain data infrastructure for model training, evaluation, and inference\nDesign and scale high-performance inference serving systems for biological foundation models\nDesign standardized dataset interfaces so biological data is consistent, discoverable, and easy to use across the team\nBuild ingestion and processing pipelines for public, proprietary, and customer datasets\nBuild indexing, search, and retrieval systems that make large datasets queryable and useful in practice\nEstablish safeguards and validation systems so datasets are reproducible, versioned, and trustworthy once standardized\nImprove throughput, latency, and reliability of distributed data loading and ML pipelines\nProfile and eliminate performance bottlenecks across GPU, network",
+        "source": "yc"
+    },
+    {
+        "title": "Lance\u00a0(W26)\u2022AI Agents That Run Hotel Operations.",
+        "link": "https://www.workatastartup.com/companies/lance",
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nLance(W26)\nhttps://www.lance.live\n\nAI Agents That Run Hotel Operations.\n\nSan Francisco\n3 people\nB2B\nFounders\nGavin Brennen\n\nCOO of Lance. Previous work on AI agents at Domo, with earlier Product & customer facing roles at SmartSuite (Series A) and Zeus.\n\nCaleb Chan\n\nCEO of Lance. Former Head of Product and Founding Engineer at Silicon Valley Commerce (9\u2011figure exit). Previously product roles at Google and Salesforce, building industry-leading voice and AI agent technology.\n\nGatik Trivedi\n\nCTO of Lance. Previously founded and exited MedTec Innovate, worked on speech and language research at Stanford, and studied EECS + Business in Berkeley M.E.T. Built agent infrastructure at GI Partners and LLM eval metrics at Knowtex (YC S22).\n\nAbout Lance\n\nAutonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\n\nTechnology\n\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.\n\nCheck out other YC startups on Work at a Startup below.\nCodes Health(S24)\n\nMedical Record Retrieval with Zero Human Error\n\nWordware(S24)\n\nAI agents you can rely on\n\nDeepnote(S19)\n\nA better data science notebook.\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
         "title": "Rovi Health\u00a0(F25)\u2022AI healthcare concierge for employees",
         "link": "https://www.workatastartup.com/companies/rovi-health",
-        "type": "ai/ml"
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nRovi Health(F25)\nhttps://www.rovi.health\n\nAI healthcare concierge for employees\n\nNew York\n3 people\nHealthcare\nFounders\nSantosh Vallabhaneni\n\nSantosh is the CEO of Rovi Health, building AI-enabled, text-based healthcare. Previously GM of Cedar\u2019s patient affordability products, sold millions in ARR to the largest health systems in the country. Early employee at AngelList, led their GTM and Customer Success teams. Also a licensed health insurance broker.\n\nTarun Vallabhaneni\n\nTarun is the CTO and co-founder of Rovi Health, building AI-enabled, text-based healthcare. Previously, Tarun was working on foundational AI models to predict extreme weather events. He holds an M.S. in Computer Science from UChicago, specializing in AI and high-performance computing, and a B.S. in Biology from Cornell.\n\nAbout Rovi Health\n\nRovi Health is an AI care concierge that steers employees to high-quality, affordable care. We review health data and proactively reach out with opportunities: better specialists, cheaper imaging, missed preventive care.\n\nWhen someone needs care, we find the best in-network providers, book appointments, and waive copays so high-quality care is the affordable default. For common conditions, we deliver care ourselves through our AI-enabled virtual clinic.\n\nWe\u2019re backed by Lightspeed, Gradient, Y Combinator, AngelList and others. We're serving thousands of employees, and growing quickly.\n\nCheck out other YC startups on Work at a Startup below.\nMinimum(S20)\n\nHelping corporates achieve Net Zero through tech solutions.\n\nGlimpse(S20)\n\nGlimpse is the system of action for CPG retail operations\n\nPillar(S19)\n\nAll-In-One Creator Store\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nRemote Marketing Jobs\nRemote Support Jobs\nRemote Operations Jobs",
+        "source": "yc"
     },
     {
-        "title": "Rovi Health\u00a0(F25)\u2022AI healthcare concierge for employees",
-        "link": "https://www.workatastartup.com/companies/rovi-health",
-        "type": "ai/ml"
+        "title": "AI / Full Stack Engineer",
+        "link": "https://www.workatastartup.com/jobs/93208",
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nAI / Full Stack Engineer at Rovi Health(F25)\n$130K - $170K\u00a0 \u2022 \u00a00.50% - 1.00%\nAI healthcare concierge for employees\nNew York, United States\nFull-time\nUS citizen/visa only\n1+ years\nApply now\nAbout Rovi Health\n\nRovi Health is an AI care concierge that steers employees to high-quality, affordable care. We review health data and proactively reach out with opportunities: better specialists, cheaper imaging, missed preventive care.\n\nWhen someone needs care, we find the best in-network providers, book appointments, and waive copays so high-quality care is the affordable default. For common conditions, we deliver care ourselves through our AI-enabled virtual clinic.\n\nWe\u2019re backed by Lightspeed, Gradient, Y Combinator, AngelList and others. We're serving thousands of employees, and growing quickly.\n\nAbout the role\nAbout Rovi Health\n\nRovi is an AI-powered care concierge and virtual clinic for employer health plans. We monitor clinical data in real time, catch expensive care before it gets scheduled, and redirect members to higher-quality, lower-cost options. When someone has a condition we can treat directly, we do that through our own virtual clinic.\n\nThe problem we\u2019re solving: in-network prices for the same procedure vary up to 10x within a single zip code. A hospital MRI costs $3,000. The independent imaging center ten minutes away charges $500. Same scan, same quality. But nobody tells the patient, the doctor doesn\u2019t know the price, and the employer won\u2019t see the claim for months. So the expensive option wins by default, every time.\n\nRovi changes that. We deliver high-quality care to member before they choose the expensive or low-quality default. Our AI-native clinic allows us to treat and navigate care, meaning we can reduce outpatient spend by over 30% while improving health outcomes.\n\nWe\u2019re live with 30,000 patients today and adding thousands more each month. We\u2019re backed by Y Combinator, Lightspeed, Gradient (Google\u2019s AI fund), Liquid 2 (Joe Montana), and others.\u00a0\n\nThe Role\n\nYou\u2019ll join a small, fast-moving engineering team that ships daily. The work spans the full stack: AI agents that talk to patients, data pipelines that ingest clinical records, dashboards that show employers their savings. One week you might be tuning a clinical triage agent. The next you\u2019re at a client site wiring up a data integration.\n\nYou\u2019ll own real product surface area, talk to customers, and ship things that go live for thousands of patients. What you build here matters immediately.\n\nWhat You\u2019ll Work On\n\nAI agents that handle real patient care\n\nSomeone reaches out with a symptom. The agent you build figures out what they need, finds the best provider on price and quality, books the appointment, follows up afterward. These agents handle real clinical decisions across dozens of conditions. You\u2019ll build them, evaluate them, and improve them based on what actually happens with patients.\n\nData pipelines that catch wa",
+        "source": "yc"
     },
     {
         "title": "Engineering Intern",
         "link": "https://www.workatastartup.com/jobs/87018",
-        "type": "general"
+        "type": "general",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nEngineering Intern at Leadbay(F25)\n$1K - $10K / monthly\nDiscover and qualify SMB leads that couldn't be found before.\nParis, IDF, FR / Paris, \u00cele-de-France, FR / San Francisco, CA, US\nInternship\nUS citizen/visa only\nJava\nKotlin\nPython\nTypeScript\nApply now\nAbout Leadbay\n\nLeadbay discovers and qualifies B2B leads that couldn\u2019t be qualified before. We\u2019re building the next generation of sales technology product \u2014 an engaging app that empowers every sales representative with always new leads and highly valuable insight, thus becoming the go-to place for all their prospecting activity.\n\nAt Leadbay we are creating conditions for makers to output meaningful work and grow. Our team includes software engineering, product design and AI R&D talent working on challenges in crawling, lead qualification, recommendation and UX.\n\nAbout the role\n\n\u201cHire people who make you never want to hire \u201cnormal\u201d people again.\u201d - Brian Chesky\n\n\u201cDon\u2019t hire people who need to be managed\u201d - YC advice\n\nInformation about companies is inherently incomplete, outdated, and often wrong. This will not change. Because of this, it has been very hard to build a tool that qualifies B2B leads as a human would, and that can deliver a constant flow of qualified leads to B2B sales representatives. Which is something those people want.\n\nWe believe times are changing, and now we can make AI smarter so that it can achieve more with less data. To tackle this challenge, we develop smarter crawlers to extract exhaustive information about even the smallest companies, and extrapolate missing information. We train lead representation models to power our lead recommender system, and build a whole set of tools to enable AI to leverage all the information we have to answer lead qualification questions as well as a human sales rep would.\n\nIn addition, we relentlessly study user behavior to build an engaging user interface and become a key app in the user workflow.\n\nWe\u2019re doing a pretty good job, with ~70% of our monthly active users using the app weekly, and with our user base growing ~20% week after week. However, to actually turn this into a product that has changed the world of B2B sales, we need to continue to learn, innovate, and improve.\n\nOur team is a good place for people who are self-starters, who want to express themselves through their work, learn, grow, and are unafraid of hard challenges.\n\nWe are not a good place for people who need to be told precisely what to do, are unable to make judgment calls and tend to wait for validation, or who care more about \u201cwhose fault is it\u201d than about \u201chow to make it work\u201d.\n\nWe work in a very low-overhead, agile way, with a single weekly team coordination meeting, all other meetings being in service of actually doing the work or becoming a person that can do it. We use a GitHub Project for keeping track of things. Weekly iterations. English. There is a lot of freedom, but also a sense of not being alone",
+        "source": "yc"
+    },
+    {
+        "title": "Bravi\u00a0(F25)\u2022The AI operating system powering home services businesses",
+        "link": "https://www.workatastartup.com/companies/bravi",
+        "type": "ai/ml",
+        "description": "Work at a Startup\nStartup Jobs\nEducation\nHow it Works\nLog In\nBravi(F25)\nhttps://www.bravi.app/\n\nThe AI operating system powering home services businesses\n\nSan Francisco\n2 people\nB2B\nFounders\nAnas Bouassami\n\nCo-founder & CEO of Bravi (YC F25), the AI communication platform for home service companies. Alongside Bravi, he also runs Volet Dumont, an online rolling shutter business that serves as a live testing ground for Bravi\u2019s technology and customer workflows. He previously co-founded Snipfeed in 2017, where he scaled the company to 20+ employees before its acquisition in 2024. Anas holds a Master Degree from UC Berkeley and a Bachelor of Science in Mechanical Engineering from EPFL.\n\nPierre-Habte Nouvellon\n\nCo-founder and CPTO of Bravi. Previously co-founded and exited Snipfeed ($7M raised, 20+ employees). South American Math Olympiad #1. Trained as a space/aerospace engineer before moving into ML and AI product.\n\nAbout Bravi\n\nBravi is reimagining CRM and communication tools from the ground up. Backed by Y Combinator (F2025), we're building voice assistants, smart CRMs, and workflow automations that work with people, not just for them.\n\nOur focus is on the fast-growing home services & construction sector, empowering businesses that are shaping a sustainable future, from solar panel installers to energy renovation experts.\n\nThese companies face a high volume of unstructured communications that traditional CRMs can't manage.\n\nOur mission is to transform this complex data into actionable insights through AI-powered automation.\n\nTechnology\nLanguages: TypeScript, Python\nAI/ML: OpenAI, Anthropic, Vapi for voice processing\nFrameworks: Next.js, React, React Native\nDatabase: PostgreSQL, Supabase\nUI: shadcn/ui, Tailwind CSS\nDeployment: Vercel, Inngest\nJobs at Bravi\nBravi (YC F25) - Founding GTM - New York\nNew York, NY, US / Remote (TX, US; FL, US; CT, US; NJ, US; Washington, DC, US)\nFull-Time\n$120K - $190K\n0.60% - 1.30%\nWill Sponsor\n3+ Years\nView job\nFounding Engineer\nParis, IDF, FR / Paris, \u00cele-De-France, FR\nFull-Time\n\u20ac50K - \u20ac85K EUR\n0.50% - 1.50%\nUS Citizenship/Visa Not Required\n3+ Years\nView job\nCheck out other YC startups on Work at a Startup below.\nSpruceID(W21)\n\nSpruceID lets users control their data across the web.\n\nLob(S13)\n\nLob is the only automation platform that transforms direct mail into\u2026\n\nTr\u00e9bol(W22)\n\nYour back-office, on autopilot\n\nSign up to see more \u203a\nWork at a Startup\nJobs\nInternships\nEvents\nHow it works\nSign in\nY Combinator\nAbout YC\nPress\nPrivacy & Terms\nContact\nJobs by Role\nSoftware Engineer Jobs\nDesign & UI/UX Jobs\nProduct Manager Jobs\nSales Jobs\nMarketing Jobs\nSupport Jobs\nOperations Jobs\nJobs by Location\nSoftware Engineer Jobs in San Francisco\nProduct Manager Jobs in San Francisco\nSoftware Engineer Jobs in New York\nProduct Manager Jobs in New York\nSoftware Engineer Jobs in Los Angeles\nProduct Manager Jobs in Los Angeles\nRemote Jobs\nRemote Software Engineer Jobs\nRemote Design & UI/UX Jobs\nRemote Product Manager Jobs\nRemote Sales Jobs\nR",
+        "source": "yc"
     },
     {
         "title": "Internships",
         "link": "https://www.workatastartup.com/internships",
-        "type": "general"
+        "type": "general",
+        "description": "About\nCompanies\nLibrary\nPartners\nResources\nStartup Jobs\nLog in\nApply\nSummer '26 Internships at Top YC Startups\n\nTop YC companies are hiring CS and technical students for summer '26 internships and you can apply here.\n\nWork with Founders\n\nThese companies are well-funded and pay interns competitive salaries. But they're small enough that you'll work directly with the founders and work on mission-critical work.\n\nSF Experience\n\nThese are all AI-native companies building in-person in SF. A side benefit of spending a summer in SF is that there will be tons of cool events and you'll get to meet a lot of cool people. We'll invite all the interns at these companies to events at YC's office too.\n\nStartup Foundation\n\nWe've always believed at YC that if you're not ready to start your own startup, the next best thing is to work at someone else's. What you'll learn at a startup is far more likely to help you start your own startup, and get funded by YC, than working at quant or some big tech company over the summer.\n\nFrom Interns to YC Founders\n\nMany interns have gone on to start their own companies and join YC as founders. This could be your first step toward building something extraordinary.\n\nSara Du\n\nCEO & Founder, Alloy (W20)\n\nInterned at: Revel (S19)\n\nLucious McDaniel IV\n\nFounder, BiteSight (W24)\n\nInterned at: Flo Recruit (S19)\n\nGabriel Saruhashi\n\nFounder, Emerge (S22)\n\nInterned at: Zippi (S19)\n\nOpen Internships at YC Startups\n\nBelow are internships at YC companies hiring for Summer 2026. If you're interested in doing an internship during the fall or spring (i.e., taking a semester off or doing a co-op), almost all of them would be open to that too, just let them know.\n\nReacher (S25)\u2022We automate creator marketing for the world's largest brands\nSoftware Engineer Intern (Fall 2025/Summer 2026)\nInternship\n\u2022\nEngineering\n\u2022\nFull stack\n\u2022\n$6K - $10K / monthly\n\u2022\nSan Francisco, CA, US / Los Angeles, CA, US\nApply\nEmber (F24)\u2022AI RCM. A/R Analysis in 3 days or less. Reduce claim denials by 55%. (3 months ago)\nFull Stack Engineering Intern (Summer 2026)\nInternship\n\u2022\nEngineering\n\u2022\nFull stack\n\u2022\n$6K - $10K / monthly\n\u2022\nSan Francisco, CA, US\nApply\nMosaic (W25)\u2022Agentic video editing\nFull Stack Engineering Internship (Winter / Summer 2026)\nInternship\n\u2022\nEngineering\n\u2022\nFull stack\n\u2022\n$5K - $8.5K / monthly\n\u2022\nSan Francisco, CA, US\nApply\n14.ai (W24)\u2022AI engine powering autonomous brands starting with gloglo.com(5 months ago)\nFull Stack Engineering Internship (now and Summer 2026)\nInternship\n\u2022\nEngineering\n\u2022\nFull stack\n\u2022\n$5K - $10K / monthly\n\u2022\nSan Francisco, CA, US\nApply\nSimCare (S24)\u2022AI avatars to scale healthcare training.\nTechnical Intern (in person, summer '26)\nInternship\n\u2022\nEngineering\n\u2022\nFull stack\n\u2022\n$7K - $11K\n\u2022\nNew York, NY, US\nApply\nBrowser Use (W25)\u2022Leading open-source web agent project with 50k stars in 3 months(4 months ago)\nSummer Software Engineering Intern (now and Summer 2026)\nInternship\n\u2022\nEngineering\n\u2022\nMachine learning\n\u2022\n$6K - $16K / monthly\n\u2022\nSan Francisco, CA, US\nApply\n",
+        "source": "yc"
+    },
+    {
+        "title": "Support & AI Operations Lead",
+        "link": "https://wellfound.com/jobs/4201644-support-ai-operations-lead",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Founding AI Engineer",
+        "link": "https://wellfound.com/jobs/4201577-founding-ai-engineer",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Senior Software Engineer - AI/ML",
+        "link": "https://wellfound.com/jobs/4201521-senior-software-engineer-ai-ml",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Group Product Manager, AI Builder",
+        "link": "https://wellfound.com/jobs/4201438-group-product-manager-ai-builder",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Group Product Manager, AI Builder",
+        "link": "https://wellfound.com/jobs/4201398-group-product-manager-ai-builder",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Principal Product Manager - AI & Intelligent Manufacturing Systems",
+        "link": "https://wellfound.com/jobs/4201379-principal-product-manager-ai-intelligent-manufacturing-systems",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Founding Designer \u2014 AI-Native Consumer Experience",
+        "link": "https://wellfound.com/jobs/4165156-founding-designer-ai-native-consumer-experience",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "View all data and analytics jobs",
+        "link": "https://wellfound.com/role/l/data-engineer/united-states",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Data Engineer",
+        "link": "https://wellfound.com/jobs/3834594-data-engineer",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "link": "https://wellfound.com/jobs/4192011-senior-data-engineer",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Data Platform Engineer",
+        "link": "https://wellfound.com/jobs/4191806-data-platform-engineer",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Data Engineer",
+        "link": "https://wellfound.com/jobs/4130979-data-engineer",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Data & Operations Engineer (Senior)",
+        "link": "https://wellfound.com/jobs/3994820-data-operations-engineer-senior",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Manager, Retail Marketing and Analytics",
+        "link": "https://wellfound.com/jobs/4173422-manager-retail-marketing-and-analytics",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Senior Manager, Supply Chain Strategy",
+        "link": "https://wellfound.com/jobs/4063463-senior-manager-supply-chain-strategy",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Blockchain Startups That Are Hiring",
+        "link": "https://wellfound.com/job-collections/hot-blockchain-startups-that-are-hiring",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Hot Consumer Fintech Startups",
+        "link": "https://wellfound.com/job-collections/50-hot-consumer-fintech-startups",
+        "type": "fintech",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Remote Data Analyst Jobs",
+        "link": "https://wellfound.com/role/r/data-analyst",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Data Analyst Jobs",
+        "link": "https://wellfound.com/role/data-analyst",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Startup Hiring Data",
+        "link": "https://wellfound.com/hiring-data",
+        "type": "ai/ml",
+        "description": "",
+        "source": "wellfound"
+    },
+    {
+        "title": "Wellfound:ai",
+        "link": "https://wellfound.com/recruit/products/recruiter-cloud",
+        "type": "ai/ml",
+        "description": "Overview\nPost a job\nReach\nAutopilot\nCustomers\nPricing\nLog In\nSign Up\nOverview\nPost a job\nReach\nAutopilot\nCustomers\nPricing\nLog In\nSign Up\nOverview\nPost a job\nReach\nAutopilot\nCustomers\nPricing\nLog In\nSign Up\nOverview\nSearch\nApplicants\nAutopilot\nLearn\nLog In\nSign Up\nAutopilot\nStop scrolling, start hiring\n\nJust tell us what you need. Our expert recruiters\u00a0find, reach out, and schedule qualified candidates on your calendar.\n\nAll at a fraction of the cost of an agency.\n\nSchedule a demo\nHIRING SO SIMPLE, IT FEELS LIKE MAGIC.\nMeet Autopilot\nSource smarter, hire faster\n\nSimply outline your ideal hire, and we'll have qualified & interested candidates booked on your calendar by the next day. It\u2019s that easy.\n\nOur experts work directly with your team to source\nfrom a pool of 500M+ candidates. We make daily improvements based on your feedback and candidate interest.\n\nWe confirm candidates\u2019 interest in the role upfront\nNEXT-LEVEL SEARCH, NEXT-LEVEL TALENT\nEnriched talent profiles\n\nOur AI-powered search goes beyond surface-level keyword match. We aggregate billions of data points to fill in candidate profiles with missing skills and insights about their work experience, so you never miss a fit.\n\nINTERACT WITH IMPACT\nHyper-personalized outreach at scale\n\nWe\u2019ll review hundreds of profiles each week and reach out to 50-100 best-fits with personalized templates proven to convert top talent.\n\nWhen interested candidates respond, we\u2019ll handle the back-and-forth. All that\u2019s needed from you is one-click to approve.\n\nYou reject or approve from the list. We do the rest.\nBOOKED & BUSY\nCheck your calendar for top matches\n\nOnce you approve a candidate, we\u2019ll handle scheduling them on your calendar, all while sending polite rejections to the rest.\n\n10+ YEARS OF FOSTERED CONNECTIONS\nReal community, better connection.\n\nOther AI sourcing tools rely on scraped, unreliable data pulled from online profiles.\nAt best, these tools can tell you what a candidate has done, not what they want to do.\n\nwellfound:ai Autopilot is different. Millions of job-seekers use Wellfound to find their next opportunity. They provide a complete picture of what they are looking for and what they've worked on. RecruiterCloud uses this proprietary data to make better matches, get more responses, and create more successful connections.\n\n\u201cHonestly, there was no reason for me to jump on calls with these candidates other than my sourcer had previously sent me really qualified people and I trusted them. They knew what they were doing, and they were certainly right.\u201d\nMax Geller\nHead of Recruiting @ Adonis\n\u201cI tried a ton of AI-recruiting platforms, tried LinkedIn, and it was all just so much noise. Then I worked with Wellfound\u2019s expert sourcers \u2014 they are so prompt and polite and saved me so much time. I just wanted the good candidates and that\u2019s what I got\u201d.\nKevin Xu\nFounder & CEO at AfterHour\n\u201cMy sourcer met with me, understood the job, screened every single candidate, and only sent me candidates that were worth",
+        "source": "wellfound"
     }
 ]

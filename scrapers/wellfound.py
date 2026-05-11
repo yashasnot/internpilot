@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 
 
-def scrape_yc_jobs():
+def scrape_wellfound_jobs():
 
     jobs = []
 
@@ -28,16 +28,16 @@ def scrape_yc_jobs():
         page = browser.new_page()
 
         page.goto(
-            "https://www.workatastartup.com/jobs"
+            "https://wellfound.com/jobs"
         )
 
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(7000)
 
         links = page.locator("a")
 
         count = links.count()
 
-        print(f"\nYC LINKS FOUND: {count}\n")
+        print(f"\nWELLFOUND LINKS FOUND: {count}\n")
 
         for i in range(count):
 
@@ -67,7 +67,7 @@ def scrape_yc_jobs():
 
                     if href.startswith("/"):
                         full_link = (
-                            "https://www.workatastartup.com"
+                            "https://wellfound.com"
                             + href
                         )
 
@@ -96,7 +96,7 @@ def scrape_yc_jobs():
                         "link": full_link,
                         "type": job_type,
                         "description": text,
-                        "source": "yc"
+                        "source": "wellfound"
                     })
 
             except:
