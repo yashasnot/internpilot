@@ -22,15 +22,39 @@ from scrapers.wellfound import (
     scrape_wellfound_jobs
 )
 
+from scrapers.internshala import (
+    scrape_internshala_jobs
+)
+
+
+print("\nSCRAPING YC JOBS...\n")
 
 yc_jobs = scrape_yc_jobs()
+
+
+print("\nSCRAPING WELLFOUND JOBS...\n")
 
 wellfound_jobs = (
     scrape_wellfound_jobs()
 )
 
 
-jobs = yc_jobs + wellfound_jobs
+print("\nSCRAPING INTERNSHALA JOBS...\n")
+
+internshala_jobs = (
+    scrape_internshala_jobs()
+)
+
+
+jobs = (
+
+    yc_jobs
+
+    + wellfound_jobs
+
+    + internshala_jobs
+
+)
 
 
 unique_jobs = []
@@ -56,6 +80,23 @@ with open("data/jobs.json", "w") as f:
     )
 
 
+try:
+
+    with open(
+        "data/seen_jobs.json",
+        "r"
+    ) as f:
+
+        seen_jobs = json.load(f)
+
+except:
+
+    seen_jobs = []
+
+
+seen_links_memory = set(seen_jobs)
+
+
 print("\nTOTAL UNIQUE JOBS:")
 print(len(unique_jobs))
 
@@ -63,17 +104,22 @@ print(len(unique_jobs))
 print("\nAI MATCH SCORES:\n")
 
 
-for job in unique_jobs[:10]:
+new_seen_links = []
+
+
+for job in unique_jobs[:20]:
 
     score = score_job(job)
 
+    print("\n========================")
+
     print(f"\nJob: {job['title']}")
 
-    print(f"Type: {job['type']}")
+    print(f"\nType: {job['type']}")
 
-    print(f"Source: {job['source']}")
+    print(f"\nSource: {job['source']}")
 
-    print(f"Match Score: {score}%")
+    print(f"\nMatch Score: {score}%")
 
     outreach = generate_outreach(job)
 
@@ -93,8 +139,40 @@ for job in unique_jobs[:10]:
         ]
     )
 
-    print("-" * 50)
+    print("\n========================")
 
-    if score > 40:
+
+    if (
+        score > 40
+        and job["link"]
+        not in seen_links_memory
+    ):
+
+        print("\nNEW JOB FOUND!")
 
         send_job_alert(job, score)
+
+        new_seen_links.append(
+            job["link"]
+        )
+
+
+updated_seen_jobs = (
+    list(seen_links_memory)
+    + new_seen_links
+)
+
+
+with open(
+    "data/seen_jobs.json",
+    "w"
+) as f:
+
+    json.dump(
+        updated_seen_jobs,
+        f,
+        indent=4
+    )
+
+
+print("\nPROCESS COMPLETED.\n")
